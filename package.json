@@ -1,0 +1,14 @@
+{
+  "name": "mr_mongo",
+  "version": "1.0.0",
+  "description": "一个封装了mongo驱动的nodejs模块",
+  "main": "mr_mongo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "江震泳",
+  "license": "ISC",
+  "dependencies": {
+    "mongo": "^0.1.0"
+  }
+}
